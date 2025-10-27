@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Running",
+    "done": false
+  },
+  {
+    "title": "Biking",
+    "done": true
+  },
+  {
+    "title": "Learning ML",
+    "done": false
+  },
+  {
+    "title": "Get up earlier",
+    "done": false
+  }
+]
